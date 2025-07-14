@@ -1,1 +1,9 @@
-
+{
+  "name": "HoldCharlie",
+  "symbol": "CHARLIE",
+  "decimals": 9,
+  "description": "A token honoring Charlie the cat — NFT-connected, catmmunity-driven, and powered by righting wrongs for our feline friends.",
+  "website": "https://holdcharlie.xyz",
+  "twitter": "https://x.com/HoldCharlie8",
+  "explorer": "https://etherscan.io/token/0x4ca4b715e3359a4f0ae30d26155f0cb754715547"
+}
